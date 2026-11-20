@@ -1,1 +1,4 @@
-Welcome to Docker
+<<<<<<< HEAD
+Welcome to Docker and Kubernate
+>>>>>>> feature-conflict
+
